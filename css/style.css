@@ -1,0 +1,4 @@
+body>svg:nth-of-type(even) {
+    visibility: hidden;
+    position: absolute;
+}
