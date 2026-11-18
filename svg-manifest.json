@@ -1,0 +1,677 @@
+[
+  {
+    "label": "!",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%21.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%21.svg"
+  },
+  {
+    "label": "\"",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%22.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%22.svg"
+  },
+  {
+    "label": "$",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%24.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%24.svg"
+  },
+  {
+    "label": "&",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%26.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%26.svg"
+  },
+  {
+    "label": "'",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%27.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%27.svg"
+  },
+  {
+    "label": "(",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%28.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%28.svg"
+  },
+  {
+    "label": ")",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%29.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%29.svg"
+  },
+  {
+    "label": "*",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%2A.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%2A.svg"
+  },
+  {
+    "label": "+",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%2B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%2B.svg"
+  },
+  {
+    "label": ",",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%2C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%2C.svg"
+  },
+  {
+    "label": "-",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/-.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/-.svg"
+  },
+  {
+    "label": "0",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/0.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/0.svg"
+  },
+  {
+    "label": "1",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/1.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/1.svg"
+  },
+  {
+    "label": "2",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/2.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/2.svg"
+  },
+  {
+    "label": "3",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/3.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/3.svg"
+  },
+  {
+    "label": "4",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/4.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/4.svg"
+  },
+  {
+    "label": "5",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/5.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/5.svg"
+  },
+  {
+    "label": "6",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/6.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/6.svg"
+  },
+  {
+    "label": "7",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/7.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/7.svg"
+  },
+  {
+    "label": "8",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/8.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/8.svg"
+  },
+  {
+    "label": "9",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/9.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/9.svg"
+  },
+  {
+    "label": ":",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%3A.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%3A.svg"
+  },
+  {
+    "label": ";",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%3B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%3B.svg"
+  },
+  {
+    "label": "<",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%3C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%3C.svg"
+  },
+  {
+    "label": "=",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%3D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%3D.svg"
+  },
+  {
+    "label": ">",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%3E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%3E.svg"
+  },
+  {
+    "label": "@",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%40.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%40.svg"
+  },
+  {
+    "label": "A",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/A.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/A.svg"
+  },
+  {
+    "label": "B",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/B.svg"
+  },
+  {
+    "label": "C",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/C.svg"
+  },
+  {
+    "label": "D",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/D.svg"
+  },
+  {
+    "label": "E",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/E.svg"
+  },
+  {
+    "label": "F",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/F.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/F.svg"
+  },
+  {
+    "label": "G",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/G.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/G.svg"
+  },
+  {
+    "label": "H",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/H.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/H.svg"
+  },
+  {
+    "label": "I",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/I.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/I.svg"
+  },
+  {
+    "label": "J",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/J.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/J.svg"
+  },
+  {
+    "label": "K",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/K.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/K.svg"
+  },
+  {
+    "label": "L",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/L.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/L.svg"
+  },
+  {
+    "label": "M",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/M.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/M.svg"
+  },
+  {
+    "label": "N",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/N.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/N.svg"
+  },
+  {
+    "label": "O",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/O.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/O.svg"
+  },
+  {
+    "label": "P",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/P.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/P.svg"
+  },
+  {
+    "label": "Q",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/Q.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/Q.svg"
+  },
+  {
+    "label": "R",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/R.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/R.svg"
+  },
+  {
+    "label": "S",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/S.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/S.svg"
+  },
+  {
+    "label": "T",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/T.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/T.svg"
+  },
+  {
+    "label": "U+23",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B23.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B23.svg"
+  },
+  {
+    "label": "U+25",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B25.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B25.svg"
+  },
+  {
+    "label": "U+2E",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B2E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B2E.svg"
+  },
+  {
+    "label": "U+2F",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B2F.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B2F.svg"
+  },
+  {
+    "label": "U+3F",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B3F.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B3F.svg"
+  },
+  {
+    "label": "U+5C",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U%2B5C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U%2B5C.svg"
+  },
+  {
+    "label": "U",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/U.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/U.svg"
+  },
+  {
+    "label": "V",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/V.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/V.svg"
+  },
+  {
+    "label": "W",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/W.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/W.svg"
+  },
+  {
+    "label": "X",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/X.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/X.svg"
+  },
+  {
+    "label": "Y",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/Y.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/Y.svg"
+  },
+  {
+    "label": "Z",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/Z.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/Z.svg"
+  },
+  {
+    "label": "[",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%5B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%5B.svg"
+  },
+  {
+    "label": "]",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%5D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%5D.svg"
+  },
+  {
+    "label": "^",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%5E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%5E.svg"
+  },
+  {
+    "label": "_",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/_.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/_.svg"
+  },
+  {
+    "label": "`",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%60.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%60.svg"
+  },
+  {
+    "label": "{",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%7B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%7B.svg"
+  },
+  {
+    "label": "|",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%7C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%7C.svg"
+  },
+  {
+    "label": "}",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%7D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%7D.svg"
+  },
+  {
+    "label": "~",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/~.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/~.svg"
+  },
+  {
+    "label": "Α",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%91.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%91.svg"
+  },
+  {
+    "label": "Β",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%92.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%92.svg"
+  },
+  {
+    "label": "Γ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%93.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%93.svg"
+  },
+  {
+    "label": "Δ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%94.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%94.svg"
+  },
+  {
+    "label": "Ε",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%95.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%95.svg"
+  },
+  {
+    "label": "Ζ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%96.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%96.svg"
+  },
+  {
+    "label": "Η",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%97.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%97.svg"
+  },
+  {
+    "label": "Θ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%98.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%98.svg"
+  },
+  {
+    "label": "Ι",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%99.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%99.svg"
+  },
+  {
+    "label": "Κ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9A.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9A.svg"
+  },
+  {
+    "label": "Λ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9B.svg"
+  },
+  {
+    "label": "Μ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9C.svg"
+  },
+  {
+    "label": "Ν",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9D.svg"
+  },
+  {
+    "label": "Ξ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9E.svg"
+  },
+  {
+    "label": "Ο",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%9F.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%9F.svg"
+  },
+  {
+    "label": "Π",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A0.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A0.svg"
+  },
+  {
+    "label": "Ρ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A1.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A1.svg"
+  },
+  {
+    "label": "Σ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A3.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A3.svg"
+  },
+  {
+    "label": "Τ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A4.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A4.svg"
+  },
+  {
+    "label": "Υ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A5.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A5.svg"
+  },
+  {
+    "label": "Φ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A6.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A6.svg"
+  },
+  {
+    "label": "Χ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A7.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A7.svg"
+  },
+  {
+    "label": "Ψ",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A8.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A8.svg"
+  },
+  {
+    "label": "Ω",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%CE%A9.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%CE%A9.svg"
+  },
+  {
+    "label": "…",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E2%80%A6.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E2%80%A6.svg"
+  },
+  {
+    "label": "─",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E2%94%80.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E2%94%80.svg"
+  },
+  {
+    "label": "、",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%81.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%81.svg"
+  },
+  {
+    "label": "。",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%82.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%82.svg"
+  },
+  {
+    "label": "〇",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%87.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%87.svg"
+  },
+  {
+    "label": "〈",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%88.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%88.svg"
+  },
+  {
+    "label": "〉",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%89.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%89.svg"
+  },
+  {
+    "label": "《",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8A.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8A.svg"
+  },
+  {
+    "label": "》",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8B.svg"
+  },
+  {
+    "label": "「",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8C.svg"
+  },
+  {
+    "label": "」",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8D.svg"
+  },
+  {
+    "label": "『",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8E.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8E.svg"
+  },
+  {
+    "label": "』",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%8F.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%8F.svg"
+  },
+  {
+    "label": "〡",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A1.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A1.svg"
+  },
+  {
+    "label": "〢",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A2.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A2.svg"
+  },
+  {
+    "label": "〣",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A3.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A3.svg"
+  },
+  {
+    "label": "〤",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A4.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A4.svg"
+  },
+  {
+    "label": "〥",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A5.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A5.svg"
+  },
+  {
+    "label": "〦",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A6.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A6.svg"
+  },
+  {
+    "label": "〧",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A7.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A7.svg"
+  },
+  {
+    "label": "〨",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A8.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A8.svg"
+  },
+  {
+    "label": "〩",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%A9.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%A9.svg"
+  },
+  {
+    "label": "〸",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%B8.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%B8.svg"
+  },
+  {
+    "label": "〹",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%B9.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%B9.svg"
+  },
+  {
+    "label": "〺",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E3%80%BA.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E3%80%BA.svg"
+  },
+  {
+    "label": "一",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%B8%80.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%B8%80.svg"
+  },
+  {
+    "label": "七",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%B8%83.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%B8%83.svg"
+  },
+  {
+    "label": "三",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%B8%89.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%B8%89.svg"
+  },
+  {
+    "label": "九",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%B9%9D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%B9%9D.svg"
+  },
+  {
+    "label": "二",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%BA%8C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%BA%8C.svg"
+  },
+  {
+    "label": "五",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%BA%94.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%BA%94.svg"
+  },
+  {
+    "label": "伍",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E4%BC%8D.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E4%BC%8D.svg"
+  },
+  {
+    "label": "八",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%85%AB.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%85%AB.svg"
+  },
+  {
+    "label": "六",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%85%AD.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%85%AD.svg"
+  },
+  {
+    "label": "十",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8D%81.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8D%81.svg"
+  },
+  {
+    "label": "卄",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8D%84.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8D%84.svg"
+  },
+  {
+    "label": "卅",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8D%85.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8D%85.svg"
+  },
+  {
+    "label": "卌",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8D%8C.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8D%8C.svg"
+  },
+  {
+    "label": "叁",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8F%81.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8F%81.svg"
+  },
+  {
+    "label": "參",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%8F%83.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%8F%83.svg"
+  },
+  {
+    "label": "四",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%9B%9B.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%9B%9B.svg"
+  },
+  {
+    "label": "地",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%9C%B0.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%9C%B0.svg"
+  },
+  {
+    "label": "天",
+    "source": "./svg/%E5%B7%A5%E6%95%B4/%E5%A4%A9.svg",
+    "target": "./svg/%E6%BD%A6%E8%8D%89/%E5%A4%A9.svg"
+  }
+]
